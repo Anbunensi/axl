@@ -1,6 +1,6 @@
 # 放烟花
 ## 已部署
-https://anbunensi.github.io/axl/
+https://anbunensi.github.io/star/
 **鼠标左键点击屏幕会绽放烟花**
 - 满足了过年不能放烟花的遗憾
 - 环保可重复
